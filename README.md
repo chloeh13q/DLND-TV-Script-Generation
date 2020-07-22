@@ -1,6 +1,6 @@
 ## Project Overview
 
-This is the third project of the Udacity Deep Learning Nanodegree. In this project, I built a TV scripts generatorusing RNNs. Trained on part of the Seinfeld 
+This is the third project of the Udacity Deep Learning Nanodegree. In this project, I built a TV scripts generator using RNNs. Trained on part of the Seinfeld 
 dataset of scripts from 9 seasons, the RNN can generate a new, "fake" TV script.
 
 ## Training Dataset
